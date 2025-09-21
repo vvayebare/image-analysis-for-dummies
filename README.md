@@ -1,9 +1,10 @@
 # image-analysis-for-dummies
 A beginner-friendly guide to image analysis in neuroimaging, with simple commands, troubleshooting and tools.
 
-**WELCOME!** If you are new to image analysis like I was,this guide is for you. No prior knowledge is needed.
+**WELCOME!**
+If you are new to image analysis like I was,this guide is for you. No prior knowledge is needed.
 ---
-##Table of contents.
+## Table of contents.
 -[Getting started](#getting-started)
 -[Basic commands and what they do](/docs/commands.md)
 -[Easiest steps for beiginners](/docs/steps.md)
