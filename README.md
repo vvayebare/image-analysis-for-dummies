@@ -6,7 +6,7 @@ If you are new to image analysis like I was,this guide is for you. No prior know
 ---
 ## Table of contents.
 -[Getting started](#getting-started)
--[Simple terminologies used in image analysis](Simple terminologies used in image analysis)
+-[Simple terminologies used in image analysis](/docs/Simple terminologies used in image analysis.md)
 -[Basic commands and what they do](/docs/commands.md)
 -[Easiest steps for beiginners](/docs/steps.md)
 -[Troubleshooting common errors](/docs/troubleshooting.md)
