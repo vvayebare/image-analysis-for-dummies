@@ -1,4 +1,5 @@
-<img width="418" height="550" alt="Screenshot 2025-09-19 081232" src="https://github.com/user-attachments/assets/a7697948-358e-4105-ae29-c94056f392b9" />
+<img width="1065" height="629" alt="Screenshot 2025-09-22 095337" src="https://github.com/user-attachments/assets/d6f17ea6-cc29-4dc9-9cde-671256b4bce6" />
+
 
 # image-analysis-for-dummies
 A beginner-friendly guide to image analysis in neuroimaging, with simple commands, troubleshooting and tools.
