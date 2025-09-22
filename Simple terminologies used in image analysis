@@ -1,0 +1,34 @@
+## 1. DICOM Files
+- **What**: The raw “photos” from an MRI scanner, like slices of your brain (.dcm files).
+- **Why**: Your starting point—scanners spit out tons of these, and you convert them for analysis.
+- **Example**: IM_0001.dcm is one slice.
+
+
+## 2. JSON Files
+- **What**: Digital notepads with details about your scan, like scanner settings or patient info.
+- **Why**: Tells tools like Neurodesk what your MRI is about. Needed for BIDS.
+- **Example**: { "ScanType": "T1", "Date": "2025-09-22" }.
+
+
+## 3. TSV Files
+- **What**: Simple spreadsheets (using tabs) for info like participant ages or scan types.
+- **Why**: Keeps your study organized, especially in BIDS.
+- **Example**: sub-01<TAB>25<TAB>T1 (open in Excel or Python).
+
+
+## 4. BIDS (Brain Imaging Data Structure)
+- **What**: A standard way to organize MRI files so everyone can use them.
+- **Why**: Makes your data shareable and works with Neurodesk tools.
+- **Example**: sub-01/anat/sub-01_T1w.nii.gz (subject + scan type).
+dataset/
+├── sub-01/
+│   ├── anat/
+│   │   ├── sub-01_T1w.nii.gz
+│   │   ├── sub-01_T1w.json
+├── participants.tsv
+
+## 5. Metadata
+- **What**: Extra info about your MRI, like voxel size or scan date, stored in JSONs or DICOMs.
+- **Why**: Helps you understand and analyze images correctly (e.g., for image quality).
+- **Example**: VoxelSize: 1mm in a JSON or NIfTI header.
+
