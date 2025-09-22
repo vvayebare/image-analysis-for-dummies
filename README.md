@@ -31,7 +31,7 @@ No radiology or coding experience? No problem-this is for *absolute beginners*.
  2. Open a Jupyter notebook (we'll explain how!)
  3. Follow along with our simple tutorials-each one is designed to take you 'huh?' to 'I got this!' in minutes.
 ## My story
-During my *CONNExIN neuroimaging 2025 fellowship*, I hit a wall: no background in image analysis, endless error messages, and hours lost Googling fixes. It slowed our team down, left me frustrated, and made me realize I wasn’t alone. Many beginners, especially in Africa where resources are scarce, face these same hurdles. That’s why I created this repo—to make image analysis (especially for MRI) so simple that anyone can do it. From basic commands to dodging errors, this is the guide I desperately needed during my fellowship—and now it’s here for you.
+During my *neuroimaging fellowship*, I hit a wall: no background in image analysis, endless error messages, and hours lost Googling fixes. It slowed our team down, left me frustrated, and made me realize I wasn’t alone. Many beginners, especially in Africa where resources are scarce, face these same hurdles. That’s why I created this repo—to make image analysis (especially for MRI) so simple that anyone can do it. From basic commands to dodging errors, this is the guide I desperately needed during my fellowship—and now it’s here for you.
 ## Contributing
 Have a tip, error fix, or idea to share? Join the community! See [CONTRIBUTING.md](/CONTRIBUTING.md) for how to add your own tricks or examples. Let’s make this a resource for everyone struggling like I did.
 ## License
