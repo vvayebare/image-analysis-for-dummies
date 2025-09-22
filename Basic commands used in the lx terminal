@@ -1,0 +1,15 @@
+ls - list of files and folders
+ml-loading a module eg fsl
+cd- change directory
+pwd- print working directory
+mkdir- make directory
+cat- view file content
+less- views large files
+cp- copy files or folders
+rm -rf - move to trash
+mv- move or rename files or folders
+dcm2niix- convert DICOM to NIfTI
+python- load and inspect NIfTI files or metadata
+pip- gets tools for reading NIfTIs, TSVs,JSONs 
+fslinfo- verify MRI file details before analysis
+fsleyes- visualize brain scans 
