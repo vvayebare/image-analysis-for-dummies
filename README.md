@@ -11,7 +11,7 @@ If you are new to image analysis like I was,this guide is for you. No prior know
 -[Getting started](#getting-started)
 -[Simple terminologies used in image analysis](https://github.com/vvayebare/image-analysis-for-dummies/blob/cf3f8b1ee0b31984cad94508039a21d84bfc31fa/Simple%20terminologies%20used%20in%20image%20analysis)
 -[Basic commands and what they do](https://github.com/vvayebare/image-analysis-for-dummies/commit/9849db4afe035b3013682ed977283210380903bb)
--[Using Neurodesk(https://play.neurodesk.org/.)]
+-[Using Neurodesk](https://play.neurodesk.org/.)
 -[Using Niivue]
 -[Troubleshooting common errors]
 -[Understanding Image quality metrics(IQM)]
